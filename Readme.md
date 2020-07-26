@@ -1,4 +1,4 @@
-## Upload Ci and Face Image
+## CCD Course Sandbox Backend
 
 ```
 pip install -r requirements.txt
@@ -6,9 +6,8 @@ cd microservice
 python main.py
 ```
 
-
 - Endpoints
 
-import inside postman 
+import inside postman
 
-https://www.getpostman.com/collections/451f3a8927e826f46d28
+https://www.getpostman.com/collections/6ff3c9e2692b17cba62b
