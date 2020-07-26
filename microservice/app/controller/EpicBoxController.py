@@ -2,7 +2,9 @@ import epicbox
 
 epicbox.configure(
     profiles=[
-        epicbox.Profile('python', 'python:3.6.5-alpine')
+        # epicbox.Profile('python', 'python:3.6.5-alpine')
+        epicbox.Profile('python', 'continuumio/anaconda3:latest')
+
     ]
 )
 

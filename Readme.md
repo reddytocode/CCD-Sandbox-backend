@@ -4,6 +4,14 @@
 pip install -r requirements.txt
 cd microservice
 python main.py
+
+
+```
+
+### Install with Anaconda
+
+```bash
+docker pull continuumio/anaconda3:latest
 ```
 
 - Endpoints
